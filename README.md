@@ -21,11 +21,13 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
    Questions:
       - Which routes have the longest and shortest average journey times?
       - Are there routes where travel time consistently exceeds the advertised times?
+
    
 2. Peak Travel Time Analysis: Understand travel patterns to identify peak and off-peak times.
 
     Questions:
       - What are the busiest travel times and days of the week by passenger volume?
+
    
 3. Route Popularity and Revenue Analysis: Analyse passenger volume and revenue generation across routes.
 
@@ -34,6 +36,8 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
       - Which routes generate the most and least revenue?
       - Which routes have the highest average ticket price?
       - Which routes have the highest number of first-class ticket sales?
+  
+        
 4. Customer Segment Analysis: Explore Relationship between Ticket Type, Revenue and Average Ticket Price.
 
    Questions:
@@ -49,6 +53,7 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
    Questions:
       - Do faster routes tend to have higher ticket prices?
       - Are there routes with unusually high or low prices compared to the average?
+
 
 6. Refunds and Delays Analysis: Investigate the impact of delays on refund requests and trends.
 
