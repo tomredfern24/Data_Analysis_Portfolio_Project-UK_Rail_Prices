@@ -16,20 +16,20 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
 
 ## Objectives
 
-1. Journey Duration Analysis:
-    Objective: Identify routes with the longest and shortest journey times and evaluate consistency with advertised times.
-    Questions:
+1. Journey Duration Analysis: Identify routes with the longest and shortest journey times and evaluate consistency with advertised times.
+
+   Questions:
       - Which routes have the longest and shortest average journey times?
       - Are there routes where travel time consistently exceeds the advertised times?
    
-3. Peak Travel Times:
-    Objective: Understand travel patterns to identify peak and off-peak times.
+2. Peak Travel Time Analysis: Understand travel patterns to identify peak and off-peak times.
+
     Questions:
       - What are the busiest travel times and days of the week by passenger volume?
    
-4. Route Popularity and Revenue Analysis:
-    Objective: Analyse passenger volume and revenue generation across routes.
-    Questions:
+3. Route Popularity and Revenue Analysis: Analyse passenger volume and revenue generation across routes.
+
+   Questions:
       - What are the most and least popular routes by passenger volume?
       - Which routes generate the most and least revenue?
       - Which routes have the highest average ticket price?
@@ -42,13 +42,13 @@ How does revenue from railcard tickets compare to non-railcard tickets?
 Does the average ticket price vary significantly by ticket type?
 
 
-6. Ticket Price and Journey Characteristics:
+8. Ticket Price and Journey Characteristics:
 Objective: Explore the relationship between journey length, speed, and ticket pricing.
 Questions:
 ·         Do faster routes tend to have higher ticket prices?
 ·         Are there routes with unusually high or low prices compared to the average?
 
-7. Refunds and Delays Analysis:
+9. Refunds and Delays Analysis:
 Objective: Investigate the impact of delays on refund requests and trends.
 Questions:
 Is there a correlation between length of delays and amount of refund requests?
