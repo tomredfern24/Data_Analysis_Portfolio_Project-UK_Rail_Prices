@@ -19,13 +19,13 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
 1. Journey Duration Analysis:
     Objective: Identify routes with the longest and shortest journey times and evaluate consistency with advertised times.
     Questions:
-      -Which routes have the longest and shortest average journey times?
-      -Are there routes where travel time consistently exceeds the advertised times?
+      - Which routes have the longest and shortest average journey times?
+      - Are there routes where travel time consistently exceeds the advertised times?
    
 3. Peak Travel Times:
     Objective: Understand travel patterns to identify peak and off-peak times.
     Questions:
-      -What are the busiest travel times and days of the week by passenger volume?
+      - What are the busiest travel times and days of the week by passenger volume?
    
 4. Route Popularity and Revenue Analysis:
     Objective: Analyse passenger volume and revenue generation across routes.
