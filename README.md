@@ -4,7 +4,7 @@ This repository showcases my data analysis skills through a series of objectives
 ## Introduction
 Welcome to my Data Analysis Portfolio! This repository showcases my skills in data analysis using MySQL for querying and Power BI for data visualization. The project is based on a mock dataset of UK rail ticket sales from January to April 2024, which I analyzed to extract meaningful insights into sales trends, customer behavior, and revenue generation.
 
-The portfolio is organized around a series of objectives that demonstrate my ability to:
+The project is organized around a series of objectives that demonstrate my ability to:
 
 - Write efficient SQL queries to extract and transform data.
 - Create interactive Power BI dashboards to visualize key metrics and trends.
