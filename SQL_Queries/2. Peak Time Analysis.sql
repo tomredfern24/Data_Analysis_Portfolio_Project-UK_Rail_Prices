@@ -21,7 +21,7 @@ ORDER BY
 	hour_of_day;
 
 
--- Query count all journeys at each distinct departure time. This will allow for a plot of journeys against time.
+-- Query to count all journeys at each distinct departure time. This will allow for a plot of journeys against time.
 
 SELECT
 departure_time,
