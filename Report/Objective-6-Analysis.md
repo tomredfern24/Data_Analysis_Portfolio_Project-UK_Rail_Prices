@@ -1,4 +1,4 @@
-Objective 6 - Peak Time Analysis
+Objective 6 - Refunds and Delays Analysis
 ##
 Objective: Investigate the impact of delays and cancellations on refund requests.
 
