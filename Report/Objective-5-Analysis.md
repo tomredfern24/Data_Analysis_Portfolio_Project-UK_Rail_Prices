@@ -1,10 +1,10 @@
 Objective 5 - Peak Time Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+Objective: Understand the relationship between journey length, speed, and ticket pricing.
 
-  	Key Questions:
-   	- Which routes have the longest and shortest average journey times?
-   	- Are there routes where travel times consistently exceed advertised durations?
+       Key Questions:
+        - Do faster routes have higher ticket prices?
+        - Are there routes with unusually high or low prices compared to the average?
 
 ##
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
