@@ -23,7 +23,6 @@ WITH duplicates_CTE AS (
         journey_status , 
         reason_for_delay,
         refund_request,
-        journey_duration
         ORDER BY (SELECT NULL)) AS row_num
     FROM 
         railway_working
