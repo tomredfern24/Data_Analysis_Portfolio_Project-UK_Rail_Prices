@@ -1,4 +1,4 @@
--- 2. Analysing popular routes and revenue generation
+-- 3. Analysing popular routes and revenue generation
 
 -- Finding most and least popular routes by passenger volume
 
