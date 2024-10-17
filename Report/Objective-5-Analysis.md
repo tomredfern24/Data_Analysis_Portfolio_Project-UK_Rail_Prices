@@ -1,4 +1,4 @@
-Objective 5 - Peak Time Analysis
+Objective 5 - Ticket Price and Journey Characteristic Analysis
 ##
 Objective: Understand the relationship between journey length, speed, and ticket pricing.
 
