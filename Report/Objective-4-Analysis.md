@@ -25,7 +25,7 @@ ORDER BY difference DESC
 ;
 ```
 ##
-Power BI Viusalisation:
+Power BI Visualisation:
 
 [![alt text]((https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/2.%20Peak%20Time%20Analysis%20Dashboard.png))]
 ##
