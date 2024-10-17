@@ -1,8 +1,8 @@
 -- While creating my dashboard I noticed the route names were too long to display nicely on my charts.
 -- I wrote this query to split each station into a shortened code system, using the first 3 characters of each departure and arrival station.
 -- Since London has multiple stations, and is the only city in the table that does
--- I came up with a way using the substring function to add the first 3 letters of the second word to all london stations
--- Example:  'Manchester Picadilly to London Paddington' becomes 'Man-LonPad'
+-- I came up with a method utilising the substring function to add the first 3 letters of the second word to all london stations only.
+-- Example:  'Manchester Picadilly to London Paddington' becomes 'Man-LonPad', 'York to Sheffield' becomes 'Yor-She'
 
 SELECT
 	CONCAT(
