@@ -26,3 +26,9 @@ ORDER BY difference DESC
 Power BI Viusalisation:
 
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/1.%20Journey%20Duration%20Analysis%20Dashboard.png)
+
+##
+Insights:
+
+##
+Conclusions:
