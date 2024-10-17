@@ -16,21 +16,21 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
 
 ## Objectives
 
-1. Journey Duration Analysis: Identifying routes with the longest and shortest average journey times and evaluate consistency with advertised times.
+1. Journey Duration Analysis: Identify routes with the longest and shortest average journey times and evaluate their consistency with advertised journey times.
 
    Questions asked:
       - Which routes have the longest and shortest average journey times?
       - Are there routes where travel times consistently exceed the advertised times?
 
    
-2. Peak Travel Time Analysis: Understanding hourly and daily travel patterns to identify peak and off-peak times.
+2. Peak Travel Time Analysis: Understand the hourly and daily travel patterns to identify peak and off-peak times.
 
     Questions:
       - What are the busiest travel times and days of the week by passenger volume?
       - What proportion of journeys are made during the week and made during the weekend?
 
    
-3. Route Popularity and Revenue Analysis: Analysing passenger volume and revenue generation across routes.
+3. Route Popularity and Revenue Analysis: Analye passenger volume and revenue generation across routes.
 
    Questions asked:
       - What are the most and least popular routes by passenger volume?
@@ -39,7 +39,7 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
       - Which routes have the highest number of first-class ticket sales?
   
         
-4. Customer Segment Analysis: Explore Relationship between Ticket Type, Revenue and Average Ticket Price.
+4. Customer Segment Analysis: Explore the relationship between ticket type, type of railcard, revenue and average ticket price.
 
    Questions asked:
       - Do Railcards account for more revenue?
