@@ -1,6 +1,6 @@
 MySQL & Power BI: Data-Driven Insights Portfolio
 
-This repository highlights my data analysis skills through a series of analytical objectives using MySQL and Power BI. The project uses a mock dataset of UK rail ticket sales from January to April 2024, offering insights into sales trends, customer behavior, and revenue generation.
+This repository highlights my data analysis skills through a series of analytical objectives using MySQL and Power BI. The project uses a mock dataset of UK rail ticket sales from January to April 2024, offering insights into sales trends, customer behavior, and revenue generation. Dataset source: ‘UK Train Rides’ from mavenanalytics.io data playground.
 
 ##
 
