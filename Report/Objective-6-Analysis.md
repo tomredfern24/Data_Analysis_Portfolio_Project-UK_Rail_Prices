@@ -25,7 +25,7 @@ ORDER BY difference DESC
 ##
 Power BI Visualisation:
 
-[![alt text]((https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/2.%20Peak%20Time%20Analysis%20Dashboard.png))]
+![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/6.%20Refund%20and%20Delay%20Analysis.png)
 ##
 Insights:
 
