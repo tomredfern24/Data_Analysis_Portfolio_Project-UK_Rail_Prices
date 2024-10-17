@@ -1,10 +1,10 @@
 Objective 6 - Peak Time Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+Objective: Investigate the impact of delays and cancellations on refund requests.
 
-  	Key Questions:
-   	- Which routes have the longest and shortest average journey times?
-   	- Are there routes where travel times consistently exceed advertised durations?
+       Key Questions:
+        - Is there a correlation between delay length and refund requests?
+        - Which routes experience the most delays or cancellations, and what are the common causes?
 
 ##
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
