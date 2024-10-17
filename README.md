@@ -69,7 +69,7 @@ Feel free to explore the SQL queries, Power BI dashboards, and reports to see ho
 ## Project Structure
 - `SQL_Queries/`: SQL queries for each objective.
 - `PowerBI_Dashboards/`: Power BI `.pbix` files.
-- `Visualizations/`: PNG files of key visualizations.
+- `Visualizations/`: PNG files of key visualisations.
 - `Report/`: Detailed analysis and conclusions for each objective.
 
 ## How to Explore
