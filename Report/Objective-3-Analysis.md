@@ -1,6 +1,6 @@
-Objective 3 - Peak Time Analysis
+Objective 3 - Route Popularity and Revenue Analysis
 ##
-Objective: Evaluate passenger volume and revenue generation across different routes.
+  Objective: Evaluate passenger volume and revenue generation across different routes.
 
        Key Questions:
         - Which routes are the most and least popular?
