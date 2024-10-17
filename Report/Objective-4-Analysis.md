@@ -1,10 +1,12 @@
 Objective 4 - Peak Time Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+Objective: Explore the relationship between ticket type, railcard usage, and revenue contribution.
 
-  	Key Questions:
-   	- Which routes have the longest and shortest average journey times?
-   	- Are there routes where travel times consistently exceed advertised durations?
+       Key Questions:
+        - Do railcards account for higher revenue?
+        - Which ticket types contribute the most to total revenue?
+        - How does the average ticket price differ by ticket type?
+        - What is the comparison between railcard and non-railcard revenue?
 
 ##
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
