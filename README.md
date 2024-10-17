@@ -107,7 +107,7 @@ Potential areas for future analysis include:
 Feel free to reach out if you have any questions or would like to discuss the analysis in more detail!
 📬 Contact Information
 
-[Your LinkedIn] | [Your Email]
+[[LinkedIn] ](https://www.linkedin.com/in/tom-r-029088289)| [[Email]](mailto:tomredfern24@gmail.com)
 📝 License
 
 This project is licensed under the MIT License.
