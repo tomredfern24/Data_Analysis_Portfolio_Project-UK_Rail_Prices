@@ -1,10 +1,10 @@
 Objective 2 - Peak Time Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+   Objective: Analyse hourly and daily travel patterns to identify peak and off-peak periods.
 
-  	Key Questions:
-   	- Which routes have the longest and shortest average journey times?
-   	- Are there routes where travel times consistently exceed advertised durations?
+       Key Questions:
+        - What are the busiest travel times and days of the week by passenger volume (ticket sales)?
+        - What proportion of journeys occur on weekdays vs. weekends?
 
 ##
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
