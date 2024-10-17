@@ -1,7 +1,7 @@
 
 -- Searching for Duplicates using ROW_NUMBER() OVER(PARTITION BY)
 
-WITH CTE AS (
+WITH duplicates_CTE AS (
     SELECT 
         *,
         ROW_NUMBER() OVER (PARTITION BY 
@@ -31,7 +31,7 @@ WITH CTE AS (
 SELECT 
     *
 FROM 
-    CTE
+    duplicates_CTE
 WHERE 
     row_num > 1;
 
@@ -84,17 +84,24 @@ SET
     time_of_purchase = STR_TO_DATE(time_of_purchase, '%H:%i:%s'),
     date_of_journey = STR_TO_DATE(date_of_journey, '%Y-%m-%d'),
     departure_time = STR_TO_DATE(departure_time, '%H:%i:%s'),    
-    arrival_time = STR_TO_DATE(arrival_time, '%H:%i:%s')
+    arrival_time = STR_TO_DATE(arrival_time, '%H:%i:%s'),
+    actual_arrival_time = STR_TO_DATE(actual_arrival_time, '%H:%i:%s')
+    
+-- Verifying these changes applied correctly
+
+SELECT *
+FROM railway_working
 WHERE 
-    STR_TO_DATE(date_of_purchase, '%Y-%m-%d') IS NULL OR
-    STR_TO_DATE(time_of_purchase, '%H:%i:%s') IS NULL OR
-    STR_TO_DATE(date_of_journey, '%Y-%m-%d') IS NULL OR
-    STR_TO_DATE(departure_time, '%H:%i:%s') IS NULL OR
-    STR_TO_DATE(arrival_time, '%H:%i:%s') IS NULL OR
-    STR_TO_DATE(actual_arrival_time, '%H:%i:%s') IS NULL;
+    date_of_purchase IS NULL OR
+    time_of_purchase IS NULL OR
+    date_of_journey IS NULL OR
+    departure_time IS NULL OR
+    arrival_time IS NULL OR
+    actual_arrival_time IS NULL;
 
 
--- Changing 00:00:00 actual_arrival time to NULL for all cancelled trains
+
+-- Changing 00:00:00 actual_arrival time to NULL for all cancelled trains, as this will affect calculations
 
 UPDATE railway_working
 SET actual_arrival_time = NULL
