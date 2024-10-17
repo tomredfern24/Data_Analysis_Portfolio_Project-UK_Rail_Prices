@@ -22,7 +22,7 @@ WITH duplicates_CTE AS (
         actual_arrival_time,
         journey_status , 
         reason_for_delay,
-        refund_request,
+        refund_request
         ORDER BY (SELECT NULL)) AS row_num
     FROM 
         railway_working
@@ -85,22 +85,16 @@ SET
     departure_time = STR_TO_DATE(departure_time, '%H:%i:%s'),    
     arrival_time = STR_TO_DATE(arrival_time, '%H:%i:%s'),
     actual_arrival_time = STR_TO_DATE(actual_arrival_time, '%H:%i:%s')
-    
--- Verifying these changes applied correctly
-
-SELECT *
-FROM railway_working
 WHERE 
-    date_of_purchase IS NULL OR
-    time_of_purchase IS NULL OR
-    date_of_journey IS NULL OR
-    departure_time IS NULL OR
-    arrival_time IS NULL OR
-    actual_arrival_time IS NULL;
+    STR_TO_DATE(date_of_purchase, '%Y-%m-%d') IS NULL OR
+    STR_TO_DATE(time_of_purchase, '%H:%i:%s') IS NULL OR
+    STR_TO_DATE(date_of_journey, '%Y-%m-%d') IS NULL OR
+    STR_TO_DATE(departure_time, '%H:%i:%s') IS NULL OR
+    STR_TO_DATE(arrival_time, '%H:%i:%s') IS NULL OR
+    STR_TO_DATE(actual_arrival_time, '%H:%i:%s') IS NULL;
 
 
-
--- Changing 00:00:00 actual_arrival time to NULL for all cancelled trains, as this will affect calculations
+-- Changing 00:00:00 actual_arrival time to NULL for all cancelled trains
 
 UPDATE railway_working
 SET actual_arrival_time = NULL
