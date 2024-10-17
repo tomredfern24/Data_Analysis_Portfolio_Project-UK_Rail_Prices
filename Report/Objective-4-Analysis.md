@@ -1,4 +1,4 @@
-Objective 4 - Peak Time Analysis
+Objective 4 - Customer Segment Analysis
 ##
 Objective: Explore the relationship between ticket type, railcard usage, and revenue contribution.
 
