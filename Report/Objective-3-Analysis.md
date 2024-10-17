@@ -1,10 +1,11 @@
 Objective 3 - Peak Time Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+Objective: Evaluate passenger volume and revenue generation across different routes.
 
-  	Key Questions:
-   	- Which routes have the longest and shortest average journey times?
-   	- Are there routes where travel times consistently exceed advertised durations?
+       Key Questions:
+        - Which routes are the most and least popular?
+        - Which routes generate the highest and lowest revenue?
+        - Which routes have the highest average ticket prices and most first-class ticket sales?
 
 ##
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
