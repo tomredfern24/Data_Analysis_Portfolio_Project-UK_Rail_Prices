@@ -8,7 +8,8 @@ Objective: Identify routes with the longest and shortest average journey times a
 
 SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
 
-  SELECT
+```
+SELECT
 	departure_station,
 	arrival_destination,
 	CONCAT(departure_station, ' to ', arrival_destination) AS route,
@@ -19,6 +20,7 @@ FROM railway_working
 GROUP BY departure_station, arrival_destination, route
 ORDER BY difference DESC
 ;
+```
 
 Power BI Viusalisation:
 
