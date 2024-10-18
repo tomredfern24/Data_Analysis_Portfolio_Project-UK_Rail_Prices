@@ -12,6 +12,7 @@ Key objectives of this project include:
 
    - Writing efficient SQL queries to extract, transform, and analyse data.
    - Developing interactive Power BI dashboards to visualize critical metrics and trends.
+   - Writing DAX measures within Power BI to clearly demonstrate key data, and allow for interactive data visualisation.
    - Applying data-driven insights to address business challenges, such as identifying peak travel times, analysing customer segments, and evaluating route performance.
 
 Explore the SQL queries, Power BI dashboards, and reports to understand my approach to solving business questions and storytelling through data.
