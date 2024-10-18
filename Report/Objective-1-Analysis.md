@@ -89,12 +89,23 @@ The problem required calculating **journey durations** for rail trips where some
 I visualized this in Power BI to show which routes were, on average, consistently running later than advertised, sorted by the difference in actual and advertised journey times.
 
 ##
-Power BI Visualisation:
+**Power BI Visualisation:**
 
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/1.%20Journey%20Duration%20Analysis%20Dashboard.png)
 
 ##
-Insights:
+**Insights:**
 
+From the visualisation we can see that the route with the longest average journey time is **Edinburgh Waverley to London Kings Cross** at 275.57 minutes. 
+
+The shortest average journey times are **Birmingham New Street to Wolverhampton** and **Reading to Didcot** - both coming in at 15 minutes.
+
+We can also see that for our dataset there are **65 distinct routes** involved (not including reverse journeys), and of those 65 routes there are **18 routes** which are on average running later than their advertised journey time. This means **27.7%** of routes are consistently underperfoming.
+
+The route that has the biggest discrepancy between average and actual journey times is **Manchester Piccadilly - Leeds**, which on average arrives **65 minutes** later than advertised.
+
+Following this is **London Euston - York**, which on average arrives **36 minutes** later than advertised.
+
+Following this is **Liverpool Lime Street - London Euston**, which on average arrives **29 minutes** later than advertised.
 ##
 Conclusions:
