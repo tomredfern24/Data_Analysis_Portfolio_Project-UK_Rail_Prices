@@ -3,7 +3,7 @@ Objective 3 - Route Popularity and Revenue Analysis
 **Objective:** Evaluate passenger volume and revenue generation across different routes.
 
        Key Questions:
-        - Which routes are the most and least popular?
+        - Which routes are the most and least popular by passenger volume?
         - Which routes generate the highest and lowest revenue?
         - Which routes have the highest average ticket prices and most first-class ticket sales?
 
