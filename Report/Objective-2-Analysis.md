@@ -54,6 +54,8 @@ The total number of tickets sold in our dataset is **31,653**. From our visualis
 
 The busiest overall day for travel was **Wednesday** at **4692** overall ticket sales, the least busy day was **Friday** at **4351**
 
+From the heatmap grid, we can see that the busiest overall hour of the week is **6PM-7PM on Tuesdays** with **496 total ticket sales**
+
 We can also see that **28.39%** of all journeys were made at the weekend.
 
 ##
