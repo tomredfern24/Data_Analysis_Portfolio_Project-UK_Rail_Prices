@@ -43,11 +43,19 @@ GROUP BY departure_time
 ORDER BY departure_time;
 ```
 ##
-Power BI Visualisation:
+**Power BI Visualisation:**
 
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/2.%20Peak%20Time%20Analysis%20Dashboard.png)
 ##
-Insights:
+**Insights:**
+
+From both the heatmap and the line plot, we can clearly see the peak hours for travel by passenger volume (ticket sales) are **6AM-9AM** and **4PM-7PM**.
+
+The total number of tickets sold in our dataset is **31,653**. From our visualisation we can see that of these tickets, **16,390** are sold during peak hours. This means that just **over half** (approx 51.7%) of all journeys are made during peak hours.
+
+The busiest overall day for travel was **Wednesday** at **4692** overall ticket sales, the least busy day was **Friday** at **4351**
+
+We can also see that **28.39%** of all journeys were made at the weekend.
 
 ##
 Conclusions:
