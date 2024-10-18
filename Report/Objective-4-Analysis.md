@@ -31,5 +31,14 @@ Power BI Visualisation:
 ##
 Insights:
 
+From the top left pie chart, we can see that the ticket type that accounts for the most revenue are **Advance Tickets** at approximately **41.7%&* of total overall revenue.
+
+The ticket type that accounts for the least revenue are *Anytime tickets* at approximately *28.21%* of total overall revenue.
+
+From the bottom left column chart, we can see that the ticket type with the highest average price are **Anytime Tickets** at **£39.20**
+
+The ticket type with the lowest average price are **Advance Tickets** at **£17.61**. This means on average Anytime Tickets are over **double the price** of Advance Tickets.
+
+
 ##
 Conclusions:
