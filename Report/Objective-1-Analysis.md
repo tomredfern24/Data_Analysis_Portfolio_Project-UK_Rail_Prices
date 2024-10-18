@@ -1,6 +1,6 @@
 Objective 1 - Journey Duration Analysis
 ##
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+**Objective:** Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
 
   	Key Questions:
    	- Which routes have the longest and shortest average journey times?
@@ -106,6 +106,8 @@ The route that has the biggest discrepancy between average and actual journey ti
 
 Following this is **London Euston - York**, which on average arrives **36 minutes** later than advertised.
 
-Following this is **Liverpool Lime Street - London Euston**, which on average arrives **29 minutes** later than advertised.
+Following this is **Liverpool Lime Street - London Euston**, which on average arrives **29 minutes** later than 
+advertised.
+
 ##
-Conclusions:
+**Conclusions:**
