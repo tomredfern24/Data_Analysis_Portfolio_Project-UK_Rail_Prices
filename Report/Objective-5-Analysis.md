@@ -7,9 +7,9 @@ Objective 5 - Ticket Price and Journey Characteristic Analysis
         - Are there routes with unusually high or low prices compared to the average?
 For this section I calculared an estimate for expected price per minute for the overall network, and this was used to calculate an expected average price for each route, based on journey duration.
 
-Routes with average prices within +-15% of the expected price were classified as **'As expected'**
-Routes with average prices 15% higher than the expected price were classified as **'Higher than expected'**
-Routes with average prices 15% lower than the expected price were classified as **'Lower than expected'**
+-Routes with average prices within +-15% of the expected price were classified as **'As expected'**
+-Routes with average prices 15% higher than the expected price were classified as **'Higher than expected'**
+-Routes with average prices 15% lower than the expected price were classified as **'Lower than expected'**
 ##
 **SQL Queries:** 
 
