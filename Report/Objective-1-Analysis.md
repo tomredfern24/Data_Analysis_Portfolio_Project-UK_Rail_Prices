@@ -7,9 +7,8 @@ Objective: Identify routes with the longest and shortest average journey times a
    	- Are there routes where travel times consistently exceed advertised durations?
 
 ##
-SQL Queries: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
-
-### Objective 1: Calculate and Compare Actual vs. Advertised Journey Durations
+**SQL Queries:** Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
+Full working available [HERE](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/edit/main/SQL_Queries/1.%20Journey%20Duration%20Analysis.sql)
 
 For this objective, I calculated the **actual journey duration** of each rail trip and compared it to the **advertised journey duration**. I had to handle special cases where journeys spanned over midnight (overnight trips).
 
