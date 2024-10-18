@@ -1,14 +1,13 @@
 Objective 2 - Peak Time Analysis
 ##
-   Objective: Analyse hourly and daily travel patterns to identify peak and off-peak periods.
+**Objective:** Analyse hourly and daily travel patterns to identify peak and off-peak periods.
 
        Key Questions:
         - What are the busiest travel times and days of the week by passenger volume (ticket sales)?
         - What proportion of journeys occur on weekdays vs. weekends?
 
 ##
-SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
-
+**SQL Queries:** 
 ```
 -- Time of day most tickets are sold regardless of route, taking the hour value only from each depature time, and showing the total sales at each hour. This is done from 0-23 for every day of the week. Could be visualised as a heatmap to show peak hours.
     
@@ -58,4 +57,4 @@ The busiest overall day for travel was **Wednesday** at **4692** overall ticket 
 We can also see that **28.39%** of all journeys were made at the weekend.
 
 ##
-Conclusions:
+**Conclusions:**
