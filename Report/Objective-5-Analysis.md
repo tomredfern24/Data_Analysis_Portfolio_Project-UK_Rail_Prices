@@ -34,7 +34,7 @@ There are some notable outliers, 4 of the longest routes by journey time are on 
 - **London Kings Cross to Edinburgh Waverley priced on average £48.32 lower than the expected price**
 - **York to Edinburgh, priced on average £22.48 lower than the expected price**
 
-From the pie chart in the bottom left we can see that of the 65 total routes, **32 routes** are considered to be priced **Lower than expected**, which is approx 49% of all routes.
+From the pie chart in the bottom right we can see that of the 65 total routes, **32 routes** are considered to be priced **Lower than expected**, which is approx 49% of all routes.
 
 We can also see that of the 65 total routes, only **13 routes** are considered to be priced **As expected**, which is approx 20% of all routes.
 
