@@ -23,6 +23,7 @@ Power BI Visualisation:
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/5.%20Ticket%20Price%20Analysis.png)
 ##
 **Insights:**
+
 From the scatter plot of Average Price against Average Journey Time, we can see from the trendline that there is a general trend towards higher prices.
 
 In general the highest priced tickets are for journeys between 100 and 150 minutes long. A large proportion of these are priced higher than expected, based on the expected price estimation calculated.
