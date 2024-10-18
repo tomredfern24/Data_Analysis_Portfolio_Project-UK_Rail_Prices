@@ -12,16 +12,7 @@ Objective 3 - Route Popularity and Revenue Analysis
 
 ```
 SELECT
-	departure_station,
-	arrival_destination,
-	CONCAT(departure_station, ' to ', arrival_destination) AS route,
-	AVG(TIME_TO_SEC(actual_journey_duration)) / 60 AS average_actual_duration_in_minutes,
-	AVG(TIME_TO_SEC(journey_duration)) / 60 AS average_advertised_duration_in_minutes,
-	ROUND(((AVG(TIME_TO_SEC(actual_journey_duration)) / 60) - (AVG(TIME_TO_SEC(journey_duration)) / 60)), 2) AS difference
-FROM railway_working
-GROUP BY departure_station, arrival_destination, route
-ORDER BY difference DESC
-;
+
 ```
 ##
 **Power BI Visualisation:**
