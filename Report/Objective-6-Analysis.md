@@ -47,7 +47,7 @@ Interestingly, this route recorded **0 total refund requests**.
 The route with the second longest delays on average is **York to Doncaster** at **69 minutes**, with **38 total delays and cancellations**. This route only recorded **3 refund requests**.
 
 
-The total revenue lost to refund across all route is **£38700**. The total revenue generated 
+The total revenue lost to refund across all route is **£38700**. The total revenue generated across the entire network is £741920, so 
 
 The route with the highest number or refund requests by far is **Liverpool Lime Street to London Euston**. The average length of delay is is **36.6 minutes**.
 This is also the route with the **highest number of delays and cancellations overall** at **879**, we can see that this route has the the highest amount of revenue lost to refunds at **£13,126**. This account just over a third (33.9%) of the total amount of revenue lost to refunds across the entire network.
