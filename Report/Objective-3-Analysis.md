@@ -22,5 +22,7 @@ SELECT
 ##
 **Insights:**
 
+*Note, these revenue calculations are not taking into account refunds, that will be looked at in detail in the refunds analysis section.
+
 ##
 **Conclusions:**
