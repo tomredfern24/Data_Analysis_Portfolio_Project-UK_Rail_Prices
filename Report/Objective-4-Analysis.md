@@ -9,27 +9,17 @@ Objective: Explore the relationship between ticket type, railcard usage, and rev
         - What is the comparison between railcard and non-railcard revenue?
 
 ##
-SQL Query: Used to extract route name, average actual journey duration, average advertised journey duration and the difference between the two durations from the dataset.
-
+**SQL Queries:** 
 ```
 SELECT
-	departure_station,
-	arrival_destination,
-	CONCAT(departure_station, ' to ', arrival_destination) AS route,
-	AVG(TIME_TO_SEC(actual_journey_duration)) / 60 AS average_actual_duration_in_minutes,
-	AVG(TIME_TO_SEC(journey_duration)) / 60 AS average_advertised_duration_in_minutes,
-	ROUND(((AVG(TIME_TO_SEC(actual_journey_duration)) / 60) - (AVG(TIME_TO_SEC(journey_duration)) / 60)), 2) AS difference
-FROM railway_working
-GROUP BY departure_station, arrival_destination, route
-ORDER BY difference DESC
-;
+
 ```
 ##
-Power BI Visualisation:
+**Power BI Visualisation:**
 
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/4.%20Ticket%20Type%20and%20Railcard%20Analysis.png)
 ##
-Insights:
+**Insights:**
 
 From the top left pie chart, we can see that the ticket type that accounts for the most revenue are **Advance Tickets** at approximately **41.7%** of total overall revenue.
 
@@ -51,4 +41,4 @@ The least popular type of railcard is the **Senior Railcard**, these account for
 The ticket type and railcard combination that accounts for the most revenue across the entire network is **Advance Ticket with No Railcard** - which generates **£239,833** in total revenue.
 
 ##
-Conclusions:
+**Conclusions:**
