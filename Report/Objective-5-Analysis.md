@@ -5,7 +5,7 @@ Objective 5 - Ticket Price and Journey Characteristic Analysis
        Key Questions:
         - Do faster routes have higher ticket prices?
         - Are there routes with unusually high or low prices compared to the average?
-For this section I calculared an estimate for expected price per minute for the overall network, and this was used to calculate an expected average price for each route, based on journey duration.
+For this section I calculated an estimate for expected price per minute for the overall network, and this was used to calculate an expected average price for each route, based on journey duration.
 
 Routes with average prices within +-15% of the expected price were classified as **'As expected'**
 
