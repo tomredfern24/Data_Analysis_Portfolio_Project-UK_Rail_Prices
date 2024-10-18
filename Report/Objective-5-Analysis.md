@@ -43,5 +43,8 @@ This means approximately **80%** of all routes deviate significantly from their 
 
 The most expensive route on average is **Manchester to London Paddington** at £114.
 
+For the 15 most expensive routes, all but one are on average priced higher than their expected price.
+**Birmingham New Street to Edinburgh, priced on average £39.06 lower than the expected price** is the only exception to this.
+
 ##
 **Conclusions:**
