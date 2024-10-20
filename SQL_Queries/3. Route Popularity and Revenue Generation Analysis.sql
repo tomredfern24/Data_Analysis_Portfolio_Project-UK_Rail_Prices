@@ -55,4 +55,31 @@ count(*) AS total_sales
 FROM railway_working
 GROUP BY ticket_class;
 
+-- Query to show revenue by each city
 
+SELECT 
+    departure_city AS city,
+    SUM(price) AS total_location_revenue,
+    COUNT(*) AS total_tickets_sold_each_location
+FROM (
+    SELECT 
+        CASE 
+            WHEN LOCATE(' ', departure_station) > 0 
+            THEN LEFT(departure_station, LOCATE(' ', departure_station) - 1)
+            ELSE departure_station
+        END AS departure_city,
+        price
+    FROM railway_working
+
+    UNION ALL
+
+    SELECT 
+        CASE 
+            WHEN LOCATE(' ', arrival_destination) > 0 
+            THEN LEFT(arrival_destination, LOCATE(' ', arrival_destination) - 1)
+            ELSE arrival_destination
+        END AS arrival_city,
+        price
+    FROM railway_working
+) AS combined_cities
+GROUP BY city;
