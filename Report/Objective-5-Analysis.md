@@ -82,27 +82,39 @@ Power BI Visualisation:
 ##
 **Insights:**
 
-From the scatter plot of Average Price against Average Journey Time, we can see from the trendline that there is a general trend towards higher prices.
+The analysis of ticket prices and journey characteristics reveals several patterns and key takeaways:
 
-In general the highest priced tickets are for journeys between 100 and 150 minutes long. A large proportion of these are priced higher than expected, based on the expected price estimation calculated.
+- General Price Trends:
 
-There are some notable outliers, 4 of the longest routes by journey time are on average priced much lower than their expected prices. These are:
+	- From the scatter plot, we observe that longer journeys tend to have higher prices, as shown by the general upward trend in the data.
+	- Journeys lasting between 100 and 150 minutes are generally the most expensive, with many priced higher than expected based on the average price-per-minute calculation.
 
-- **Birmingham New Street to Edinburgh, priced on average £39.06 lower than the expected price**
-- **Edinburgh Waverley to London Kings Cross priced on average £44.60 lower than the expected price**
-- **London Kings Cross to Edinburgh Waverley priced on average £48.32 lower than the expected price**
-- **York to Edinburgh, priced on average £22.48 lower than the expected price**
+- Outliers with Lower Prices:
 
-From the pie chart in the bottom right we can see that of the 65 total routes, **32 routes** are considered to be priced **Lower than expected**, which is approx 49% of all routes.
+	- Despite longer journey durations, four notable routes are priced much lower than expected:
+		- Birmingham New Street to Edinburgh: Priced on average £39.06 lower than expected.
+		- Edinburgh Waverley to London Kings Cross: Priced on average £44.60 lower than expected.
+		- London Kings Cross to Edinburgh Waverley: Priced on average £48.32 lower than expected.
+		- York to Edinburgh: Priced on average £22.48 lower than expected.
 
-We can also see that of the 65 total routes, only **13 routes** are considered to be priced **As expected**, which is approx 20% of all routes.
+- Route Price Classification:
 
-This means approximately **80%** of all routes deviate significantly from their expected price.
+	- 49% of all routes (32 out of 65) are priced lower than expected, indicating that nearly half of the routes offer ticket prices below the estimated average price for their respective journey durations.
+ 	- Only 20% of routes (13 out of 65) fall within the expected price range, meaning that around 80% of routes deviate significantly from their expected price—either higher or lower.
+  	- Of the 65 routes analysed, the majority either offer more affordable tickets or charge higher-than-expected prices, with fewer routes aligning with the predicted cost.
 
-The most expensive route on average is **Manchester to London Paddington** at £114.
+- Most Expensive Route:
 
-For the 15 most expensive routes, all but one are on average priced higher than their expected price.
-**Birmingham New Street to Edinburgh, priced on average £39.06 lower than the expected price** is the only exception to this.
+	- The most expensive route on average is Manchester to London Paddington, priced at £114. This route stands out as the priciest in the analysis.
+
+- High-Priced Routes:
+	- For the 15 most expensive routes, all but one are priced higher than expected. The exception is Birmingham New Street to Edinburgh, which remains priced much lower than expected despite its long journey time.
 
 ##
 **Conclusions:**
+
+The analysis demonstrates a clear correlation between longer journey durations and higher ticket prices, with most long-distance routes priced above the expected range. However, there are notable exceptions where long routes—especially those between Edinburgh and major cities—are priced significantly lower than anticipated.
+
+Around half of the routes offer prices that are lower than expected, suggesting potential value for passengers. However, only 20% of routes fall within the expected price range, meaning a large proportion of tickets are either over or underpriced in comparison to the average journey cost.
+
+These findings suggest that pricing strategies could be further optimised, particularly for long-distance routes where prices deviate notably from the predicted cost.
