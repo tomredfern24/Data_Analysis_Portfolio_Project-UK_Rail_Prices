@@ -4,8 +4,9 @@ Objective 3 - Route Popularity and Revenue Analysis
 
        Key Questions:
         - Which routes are the most and least popular by passenger volume?
+	- Which routes have the most first-class ticket sales?
         - Which routes generate the highest and lowest revenue?
-        - Which routes have the highest average ticket prices and most first-class ticket sales?
+        - Which routes have the highest average ticket prices?
 
 ##
 **SQL Queries:** 
@@ -81,7 +82,18 @@ GROUP BY ticket_class;
 ##
 **Insights:**
 
-*Note, these revenue calculations are not taking into account refunds, that will be looked at in detail in the refunds analysis section.
+*Note, these revenue calculations are not taking into account refunds, that will be looked at in further detail in the refunds analysis section.
+
+The top 3 most popular routes by ticket sales (passenger volume) are **Manchester Piccadilly to Livepool Lime Street**, **London Euston to Birmingham New Street**, **London Kings Cross to York** at 4628, 4210 and 3920 total tickets sold respectively.
+
+The top 3 least popular routes by ticket sales (passenger volume) are **Livepool Lime Street to Birmingham New Street**, **Manchester Piccadilly to Warrington**, **Manchester Piccadilly to York** at 14, 15, 15 total tickets respectively.
+
+Despite seeling the most tickets, the Manchester Piccadilly to Livepool Lime Street route only generates £17,310 in total revenue, although this is likely because of the low average ticket price of £3.74.
+
+The routes that generate the highest revenue are **London Kings Cross to York** and **Liverpool Lime Street to London Euston**, at £183,193 and £113,299 respectively. Although London Kings Cross to York has a lower average ticket price (£46.71) compared to Liverpool Lime Street to London Euston (£103.28), London Kings Cross has far higher ticket sales at 3922 compared to 1097 ticket sales.
+
+
+The routes that generate the lowest revenue are **London Euston to Oxford** and **Manchester Piccadilly to Warrington**, at £41 and £53 respectively. The respective ticket sales and average ticket price are 16 sales & £2.56, 15 sales and £3.53.
 
 ##
 **Conclusions:**
