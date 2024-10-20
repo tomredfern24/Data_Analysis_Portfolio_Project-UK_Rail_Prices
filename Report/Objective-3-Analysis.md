@@ -121,26 +121,26 @@ GROUP BY city;
 The analysis of route popularity and revenue generation reveals several significant trends:
 
 1. Top Routes by Passenger Volume:
-	- The most popular routes by ticket sales are:
-	  	- Manchester Piccadilly to Liverpool Lime Street with 4,628 tickets sold.
-		- London Euston to Birmingham New Street with 4,210 tickets sold.
-		- London Kings Cross to York with 3,920 tickets sold.
+The most popular routes by ticket sales are:
+	- Manchester Piccadilly to Liverpool Lime Street with 4,628 tickets sold.
+	- London Euston to Birmingham New Street with 4,210 tickets sold.
+	- London Kings Cross to York with 3,920 tickets sold.
 
 2. Least Popular Routes:
-	- The least popular routes by passenger volume are:
- 		- Liverpool Lime Street to Birmingham New Street (14 total sales).
-		- Manchester Piccadilly to Warrington and Manchester Piccadilly to York, both with 15 total sales.
+The least popular routes by passenger volume are:
+	- Liverpool Lime Street to Birmingham New Street (14 total sales).
+	- Manchester Piccadilly to Warrington and Manchester Piccadilly to York, both with 15 total sales.
 
 3. Revenue Generation:
-	- The routes generating the highest revenue are:
- 		- London Kings Cross to York with £183,193.
-		- Liverpool Lime Street to London Euston with £113,299.
-		- Although Manchester Piccadilly to Liverpool Lime Street has the highest passenger volume, it only generates £17,310, likely due to its low average ticket price of £3.74.
+The routes generating the highest revenue are:
+	- London Kings Cross to York with £183,193.
+	- Liverpool Lime Street to London Euston with £113,299.
+	- Although Manchester Piccadilly to Liverpool Lime Street has the highest passenger volume, it only generates £17,310, likely due to its low average ticket price of £3.74.
 
 4. Lowest Revenue Routes:
-	- The routes generating the least revenue are:
- 		- London Euston to Oxford with £41 (16 sales, average ticket price £2.56).
-		- Manchester Piccadilly to Warrington with £53 (15 sales, average ticket price £3.53).
+The routes generating the least revenue are:
+	- London Euston to Oxford with £41 (16 sales, average ticket price £2.56).
+	- Manchester Piccadilly to Warrington with £53 (15 sales, average ticket price £3.53).
 
 5. Ticket Pricing Insights:
 	- The route with the highest average ticket price is Manchester Piccadilly to London Paddington at £114.11, followed by Liverpool Lime Street to London St Pancras (£104.77), and Liverpool Lime Street to London Euston (£103.28).
