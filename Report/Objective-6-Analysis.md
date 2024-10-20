@@ -52,6 +52,17 @@ The total revenue lost to refund across all route is **£38,700**. The total rev
 The route with the highest number or refund requests by far is **Liverpool Lime Street to London Euston**. The average length of delay is is **36.6 minutes**.
 This is also the route with the **highest number of delays and cancellations overall** at **879**, we can see that this route has the the highest amount of revenue lost to refunds at **£13,126**. This accounts for just over a third (33.9%) of the total amount of revenue lost to refunds across the entire network.
 
+From the pie charts we can see that the most common reason for delays across the entire network was **Weather**, accounting for 32.89% of all delays and cancellations.
+
+Of the 5 main reasons for delays across the network they can be split into two categories: networks problems (Signal Failure, Staffing, Techincal Issues) and condition problems for (Traffic, Weather)
+
+Of these two categories, network problems made up the majority of all reasons for delays at 59.5%, which indicates more work could be done to prevent delays and reduce refunds.
+
+From the breakdown of number of refund requests for each delay reason, **Technical Issues** has by far the most at **34.7%**, 388 refund requests. The least number of refund requests were for journeys delayed by **Weather**.
+
+
+Considering the two categories previously discussed - 77.28% of all refund requests were for delays caused by network problems. Only 22.72% of refund requests were made by passengers delayed by traffic or weather. This indicates passengers are more likely to requests refunds for journeys delayed by network problems.
+
 
 ##
 **Conclusions:**
