@@ -127,40 +127,40 @@ The analysis of refunds and delays reveals several important findings about the 
 
 	- The average delay length across the network was 40.67 minutes. Despite this, there doesn’t seem to be a strong, consistent correlation between the length of the delay and the number of refund requests, as the response varies significantly by route.
 
-- Refund Requests by Delay Length:
+3. Refund Requests by Delay Length:
   
 	- The delay range with the most refund requests was between 16 and 30 minutes (233 requests), followed by 6 to 15 minutes (127 requests) and 31 to 60 minutes (107 requests).
 	- Surprisingly, no refund requests were made for delays lasting over 60 minutes in this dataset.
 
-- Cancelled Journeys:
+4. Cancelled Journeys:
   
 	- Cancelled journeys accounted for the majority of refund requests, with a total of 572 requests.
 
-- Longest Delays by Route:
+5. Longest Delays by Route:
   
 	- The route with the longest average delay is Manchester Piccadilly to Leeds, with an average delay of 144 minutes across 65 delays and cancellations. Interestingly, no refund requests were made for this route.
 	- The second longest delay is on the York to Doncaster route, with an average delay of 69 minutes. This route recorded 3 refund requests.
 
-- Revenue Impact of Refunds:
+6. Revenue Impact of Refunds:
 
 	- Total revenue lost to refunds across the network is estimated at £38,700.
  	- The total revenue generated before refunds was £741,920, meaning that after refunds, revenue would be £703,220, a loss of 5.22%.
 	- It is important to note that the dataset does not specify whether refund requests were approved or what amount was refunded, so the actual revenue loss could be lower.
 
-- Routes with the Most Refund Requests:
+7. Routes with the Most Refund Requests:
   
 	- The route with the highest number of refund requests is Liverpool Lime Street to London Euston, with an average delay of 36.6 minutes.
  	- This route also had the highest number of delays and cancellations, with 879 disruptions.
 	- It accounted for the highest amount of revenue lost to refunds, at £13,126, or 33.9% of the total revenue lost to refunds across the network.
 
-- Causes of Delays:
+8. Causes of Delays:
   
 	- The most common reason for delays was Weather, responsible for 32.89% of all delays and cancellations.
 	- Delays across the network can be grouped into two broad categories:
 		- Network problems (signal failures, staffing issues, technical problems) accounted for 59.5% of all delays.
 		- Condition problems (traffic and weather) made up the remaining 40.5%.
 
-- Refund Requests by Delay Cause:
+9. Refund Requests by Delay Cause:
 
 	- Technical Issues caused the most refund requests, at 34.7% (388 requests).
 	- Refunds were least likely for delays caused by Weather.
