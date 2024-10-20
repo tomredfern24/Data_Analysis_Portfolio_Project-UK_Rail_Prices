@@ -65,7 +65,7 @@ SET journey_duration = CASE
 END;
 ```
 
-4. Updated query to include the difference between actual and advertised journey times, which I visualized in Power BI:
+4. Updated query to include the difference between actual and advertised journey times, which I visualised in Power BI:
 
 ```
 SELECT
@@ -86,7 +86,7 @@ The problem required calculating **journey durations** for rail trips where some
 - Once I had the actual journey durations, I added another column for the **advertised journey duration** (based on the original scheduled arrival times).
 - From this I was able to calculate the difference between the two, which formed the basis for my analysis.
 
-I visualized this in Power BI to show which routes were, on average, consistently running later than advertised, sorted by the difference in actual and advertised journey times.
+I visualised this in Power BI to show which routes were, on average, consistently running later than advertised, sorted by the difference in actual and advertised journey times.
 
 ##
 **Power BI Visualisation:**
@@ -103,7 +103,7 @@ I visualized this in Power BI to show which routes were, on average, consistentl
 
 - On-time Performance:
 
-	 - Out of the 65 distinct routes analyzed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
+	 - Out of the 65 distinct routes analysed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
 
 - Significant Delays:
 	
