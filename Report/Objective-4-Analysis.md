@@ -55,8 +55,9 @@ group by railcard;
 The customer segment analysis highlights the relationships between ticket type, railcard usage, and revenue contributions:
 
 - Revenue by Ticket Type:
-       - The Advance Ticket category contributes the most to overall revenue, generating approximately 41.7% of total revenue.
-       - Conversely, Anytime Tickets contribute the least, accounting for 28.21% of total revenue.
+       
+  - The Advance Ticket category contributes the most to overall revenue, generating approximately 41.7% of total revenue.
+  - Conversely, Anytime Tickets contribute the least, accounting for 28.21% of total revenue.
 
 - Average Ticket Price:
        - Anytime Tickets have the highest average price at £39.20, more than double the price of Advance Tickets, which average £17.61.
