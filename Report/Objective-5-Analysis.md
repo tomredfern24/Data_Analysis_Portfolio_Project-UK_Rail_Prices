@@ -84,12 +84,12 @@ Power BI Visualisation:
 
 The analysis of ticket prices and journey characteristics reveals several patterns and key takeaways:
 
-- General Price Trends:
+1. General Price Trends:
 
 	- From the scatter plot, we observe that longer journeys tend to have higher prices, as shown by the general upward trend in the data.
 	- Journeys lasting between 100 and 150 minutes are generally the most expensive, with many priced higher than expected based on the average price-per-minute calculation.
 
-- Outliers with Lower Prices:
+2. Outliers with Lower Prices:
 
 	- Despite longer journey durations, four notable routes are priced much lower than expected:
 		- Birmingham New Street to Edinburgh: Priced on average £39.06 lower than expected.
@@ -97,17 +97,17 @@ The analysis of ticket prices and journey characteristics reveals several patter
 		- London Kings Cross to Edinburgh Waverley: Priced on average £48.32 lower than expected.
 		- York to Edinburgh: Priced on average £22.48 lower than expected.
 
-- Route Price Classification:
+3. Route Price Classification:
 
 	- 49% of all routes (32 out of 65) are priced lower than expected, indicating that nearly half of the routes offer ticket prices below the estimated average price for their respective journey durations.
  	- Only 20% of routes (13 out of 65) fall within the expected price range, meaning that around 80% of routes deviate significantly from their expected price—either higher or lower.
   	- Of the 65 routes analysed, the majority either offer more affordable tickets or charge higher-than-expected prices, with fewer routes aligning with the predicted cost.
 
-- Most Expensive Route:
+4. Most Expensive Route:
 
 	- The most expensive route on average is Manchester to London Paddington, priced at £114. This route stands out as the priciest in the analysis.
 
-- High-Priced Routes:
+5. High-Priced Routes:
 	- For the 15 most expensive routes, all but one are priced higher than expected. The exception is Birmingham New Street to Edinburgh, which remains priced much lower than expected despite its long journey time.
 
 ##
