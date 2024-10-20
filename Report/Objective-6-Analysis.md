@@ -116,14 +116,14 @@ GROUP BY reason_for_delay;
 
 The analysis of refunds and delays reveals several important findings about the impact of journey disruptions on refund requests across the rail network:
 
-- Network-wide Delays and Cancellations:
+1. Network-wide Delays and Cancellations:
 
 	- Out of the 31,653 total journeys, there were 4,172 delays and cancellations (about 13.2% of all journeys).
 		- 1,880 journeys were cancelled (approx 5.9%).
 		- 2,292 journeys were delayed (approx 7.2%).
 	- From these disrupted journeys, 1,118 refund requests were made, meaning 26.8% of delayed or cancelled journeys resulted in refund requests.
 
-- Average Delay Length:
+2. Average Delay Length:
 
 	- The average delay length across the network was 40.67 minutes. Despite this, there doesn’t seem to be a strong, consistent correlation between the length of the delay and the number of refund requests, as the response varies significantly by route.
 
