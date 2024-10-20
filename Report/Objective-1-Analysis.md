@@ -103,14 +103,14 @@ Longest and Shortest Routes:
 
 On-time Performance:
 
-    Out of the 65 distinct routes analyzed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
+ - Out of the 65 distinct routes analyzed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
 
 Significant Delays:
 
-    The route with the largest discrepancy between the actual and advertised journey times is Manchester Piccadilly to Leeds, which averages 65 minutes later than scheduled.
-    Other notable underperformers include:
-        London Euston to York, which averages 36 minutes later than advertised.
-        Liverpool Lime Street to London Euston, arriving an average of 29 minutes late.
+ - The route with the largest discrepancy between the actual and advertised journey times is Manchester Piccadilly to Leeds, which averages 65 minutes later than scheduled.
+ - Other notable underperformers include:
+   - London Euston to York, which averages 36 minutes later than advertised.
+   - Liverpool Lime Street to London Euston, arriving an average of 29 minutes late.
 
 ##
 **Conclusions:**
