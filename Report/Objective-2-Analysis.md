@@ -50,19 +50,19 @@ ORDER BY departure_time;
 
 From the visualisations (heatmap and line plot), several key patterns regarding passenger volume and peak times emerge:
 
-- Peak Travel Hours:
+1. Peak Travel Hours:
 	- The busiest travel periods are 6AM-9AM and 4PM-7PM, reflecting typical commuter patterns. These hours consistently see the highest volume of ticket sales across the week.
  	- Of the 31,653 total tickets sold in the dataset, 16,390 tickets (approximately 51.7%) were sold during these peak hours, meaning that just over half of all journeys occur during these times.
 
-- Busiest and Least Busy Days:
+2. Busiest and Least Busy Days:
 	- Wednesday is the busiest day for travel, with 4,692 ticket sales, while Friday ranks as the least busy day with 4,351 ticket sales.
  	- This contrasts with general assumptions that Fridays may be busier due to end-of-week travel, and may warrant further investigation.
 
-- Specific Hourly Peaks:
+3. Specific Hourly Peaks:
 	- The busiest hour of the week is 6PM-7PM on Tuesdays, with 496 tickets sold during this period.
  	- Conversely, the least busy hour is 7PM-8PM on Thursdays, with only 43 tickets sold.
 
-- Weekday vs. Weekend Travel:
+4. Weekday vs. Weekend Travel:
 	- 28.39% of all journeys are made during the weekend, indicating that the majority of travel occurs on weekdays. This reinforces the idea that weekday travel is driven largely by work or routine activities, while weekend travel could be more leisure-oriented or less frequent overall.
 
 ##
