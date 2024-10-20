@@ -96,18 +96,27 @@ I visualized this in Power BI to show which routes were, on average, consistentl
 ##
 **Insights:**
 
-From the visualisation we can see that the route with the longest average journey time is **Edinburgh Waverley to London Kings Cross** at 275.57 minutes. 
+Longest and Shortest Routes:
 
-The shortest average journey times are **Birmingham New Street to Wolverhampton** and **Reading to Didcot** - both coming in at 15 minutes.
+    The longest average journey time is for the route from Edinburgh Waverley to London Kings Cross, with an average duration of 275.57 minutes.
+    The shortest average journey times are observed for the Birmingham New Street to Wolverhampton and Reading to Didcot routes, both averaging around 15 minutes.
 
-We can also see that for our dataset there are **65 distinct routes** involved (not including reverse journeys), and of those 65 routes there are **18 routes** which are on average running later than their advertised journey time. This means **27.7%** of routes are consistently underperfoming.
+On-time Performance:
 
-The route that has the biggest discrepancy between average and actual journey times is **Manchester Piccadilly - Leeds**, which on average arrives **65 minutes** later than advertised.
+    Out of the 65 distinct routes analyzed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
 
-Following this is **London Euston - York**, which on average arrives **36 minutes** later than advertised.
+Significant Delays:
 
-Following this is **Liverpool Lime Street - London Euston**, which on average arrives **29 minutes** later than 
-advertised.
+    The route with the largest discrepancy between the actual and advertised journey times is Manchester Piccadilly to Leeds, which averages 65 minutes later than scheduled.
+    Other notable underperformers include:
+        London Euston to York, which averages 36 minutes later than advertised.
+        Liverpool Lime Street to London Euston, arriving an average of 29 minutes late.
 
 ##
 **Conclusions:**
+
+The analysis highlights that while most routes adhere to their advertised durations, a substantial portion (nearly 28%) experience delays, with certain routes consistently running late by significant margins. The most notable delays are on key long-distance routes, particularly Manchester Piccadilly to Leeds, London Euston to York, and Liverpool Lime Street to London Euston, which all show large deviations from the advertised times.
+
+These findings could indicate operational inefficiencies or external factors affecting these routes. Further analysis could investigate potential causes such as infrastructure issues, scheduling conflicts, or high passenger volumes, which may contribute to these delays. Addressing these factors could lead to improved punctuality and customer satisfaction, particularly on routes with significant delays.
+
+Future steps could include a deeper investigation into seasonal patterns or the impact of external factors (e.g., weather, network congestion) on journey durations, alongside potential mitigation strategies to improve punctuality on the most affected routes.
