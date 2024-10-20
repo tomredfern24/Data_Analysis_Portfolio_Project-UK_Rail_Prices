@@ -121,7 +121,7 @@ The analysis of refunds and delays reveals several important findings about the 
 	- Out of the 31,653 total journeys, there were 4,172 delays and cancellations (about 13.2% of all journeys).
 		- 1,880 journeys were cancelled (approx 5.9%).
 		- 2,292 journeys were delayed (approx 7.2%).
-		- From these disrupted journeys, 1,118 refund requests were made, meaning 26.8% of delayed or cancelled journeys resulted in refund requests.
+	- From these disrupted journeys, 1,118 refund requests were made, meaning 26.8% of delayed or cancelled journeys resulted in refund requests.
 
 - Average Delay Length:
 
