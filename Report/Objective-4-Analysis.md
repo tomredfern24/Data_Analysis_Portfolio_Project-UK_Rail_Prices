@@ -56,8 +56,8 @@ The customer segment analysis highlights the relationships between ticket type, 
 
 1. Revenue by Ticket Type:
        
-  - The Advance Ticket category contributes the most to overall revenue, generating approximately 41.7% of total revenue.
-  - Conversely, Anytime Tickets contribute the least, accounting for 28.21% of total revenue.
+       - The Advance Ticket category contributes the most to overall revenue, generating approximately 41.7% of total revenue.
+       - Conversely, Anytime Tickets contribute the least, accounting for 28.21% of total revenue.
 
 2. Average Ticket Price:
 
