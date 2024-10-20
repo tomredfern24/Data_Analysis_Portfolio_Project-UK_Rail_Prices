@@ -130,7 +130,7 @@ The analysis of refunds and delays reveals several important findings about the 
 - Refund Requests by Delay Length:
   
 	- The delay range with the most refund requests was between 16 and 30 minutes (233 requests), followed by 6 to 15 minutes (127 requests) and 31 to 60 minutes (107 requests).
-	- Surprisingly, no refund requests were made for delays lasting over 60 minutes.
+	- Surprisingly, no refund requests were made for delays lasting over 60 minutes in this dataset.
 
 - Cancelled Journeys:
   
