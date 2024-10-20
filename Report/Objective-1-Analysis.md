@@ -96,12 +96,12 @@ I visualized this in Power BI to show which routes were, on average, consistentl
 ##
 **Insights:**
 
-Longest and Shortest Routes:
+- Longest and Shortest Routes:
 
 - The longest average journey time is for the route from Edinburgh Waverley to London Kings Cross, with an average duration of 275.57 minutes.
 - The shortest average journey times are observed for the Birmingham New Street to Wolverhampton and Reading to Didcot routes, both averaging around 15 minutes.
 
-On-time Performance:
+- On-time Performance:
 
  - Out of the 65 distinct routes analyzed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
 
