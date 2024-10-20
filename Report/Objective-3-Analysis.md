@@ -118,27 +118,45 @@ GROUP BY city;
 
 *Note, these revenue calculations are not taking into account refunds, that will be looked at in further detail in the refunds analysis section.
 
-The total revenue generated across the entire network is **£741920**.
+The analysis of route popularity and revenue generation reveals several significant trends:
 
-The top 3 most popular routes by ticket sales (passenger volume) are **Manchester Piccadilly to Livepool Lime Street**, **London Euston to Birmingham New Street**, **London Kings Cross to York** at 4628, 4210 and 3920 total tickets sold respectively.
+1. Top Routes by Passenger Volume:
+	- The most popular routes by ticket sales are:
+	  	- Manchester Piccadilly to Liverpool Lime Street with 4,628 tickets sold.
+		- London Euston to Birmingham New Street with 4,210 tickets sold.
+		- London Kings Cross to York with 3,920 tickets sold.
 
-The top 3 least popular routes by ticket sales (passenger volume) are **Livepool Lime Street to Birmingham New Street**, **Manchester Piccadilly to Warrington**, **Manchester Piccadilly to York** at 14, 15, 15 total tickets respectively.
+2. Least Popular Routes:
+	- The least popular routes by passenger volume are:
+ 		- Liverpool Lime Street to Birmingham New Street (14 total sales).
+		- Manchester Piccadilly to Warrington and Manchester Piccadilly to York, both with 15 total sales.
 
-Despite seeling the most tickets, the Manchester Piccadilly to Livepool Lime Street route only generates £17,310 in total revenue, although this is likely because of the low average ticket price of £3.74.
+3. Revenue Generation:
+	- The routes generating the highest revenue are:
+ 		- London Kings Cross to York with £183,193.
+		- Liverpool Lime Street to London Euston with £113,299.
+		- Although Manchester Piccadilly to Liverpool Lime Street has the highest passenger volume, it only generates £17,310, likely due to its low average ticket price of £3.74.
 
-The routes that generate the highest revenue are **London Kings Cross to York** and **Liverpool Lime Street to London Euston**, at £183,193 and £113,299 respectively. Although London Kings Cross to York has a lower average ticket price (£46.71) compared to Liverpool Lime Street to London Euston (£103.28), London Kings Cross has far higher ticket sales at 3922 compared to 1097 ticket sales.
+4. Lowest Revenue Routes:
+	- The routes generating the least revenue are:
+ 		- London Euston to Oxford with £41 (16 sales, average ticket price £2.56).
+		- Manchester Piccadilly to Warrington with £53 (15 sales, average ticket price £3.53).
 
-The routes that generate the lowest revenue are **London Euston to Oxford** and **Manchester Piccadilly to Warrington**, at £41 and £53 respectively. The respective ticket sales and average ticket price are 16 sales & £2.56, 15 sales and £3.53.
+5. Ticket Pricing Insights:
+	- The route with the highest average ticket price is Manchester Piccadilly to London Paddington at £114.11, followed by Liverpool Lime Street to London St Pancras (£104.77), and Liverpool Lime Street to London Euston (£103.28).
 
-The route with the highest average ticket price is **Manchester Piccadilly to London Paddington** at £114.11, the second highest is **Liverpool Lime Street to London St Pancras** at £104.77, the third highest is **Liverpool Lime Street to London Euston** at £103.28.
-
-The route with the highest amount of first class ticket sales is **Manchester Piccadilly to Livepool Lime Street** with 422 sales.
-
-There were a total of 3058 first class ticket sales across the whole network, this makes up around 9.7% of the 31650 tickets sold. These first class ticket sales generate a total of £149,400, which makes up approximately 20.1% of the total revenue for the rail network (£741,920). The revenue generated from standard class sales is £592,520.
-
-The average standard class ticket price is **£29.90**, the average first class ticket price is **£56.29**.
+6. First-Class Ticket Sales:
+	- The route with the most first-class ticket sales is Manchester Piccadilly to Liverpool Lime Street with 422 sales.
+ 	- Overall, first-class tickets make up 9.7% of total ticket sales (3,058 first-class sales out of 31,650 tickets), generating £149,400 (approximately 20.1% of total revenue).
+	- Standard-class ticket sales generate £592,520, with an average ticket price of £29.90, while first-class ticket prices average £56.29.
 
 
 
 ##
 **Conclusions:**
+
+The analysis indicates that while some routes like Manchester Piccadilly to Liverpool Lime Street are popular by passenger volume, they contribute less to overall revenue due to lower average ticket prices. On the other hand, routes like London Kings Cross to York and Liverpool Lime Street to London Euston generate significantly higher revenue, despite having fewer passengers, due to higher ticket prices.
+
+Interestingly, first-class tickets account for a relatively small portion of total sales (9.7%), yet they contribute disproportionately to revenue (20.1%). This highlights the importance of premium ticket offerings for overall profitability.
+
+In summary, focusing on high-revenue routes and optimising the balance between passenger volume and ticket pricing could enhance overall profitability. Additionally, further exploration of low-performing routes, such as London Euston to Oxford and Manchester Piccadilly to Warrington, might reveal opportunities for service adjustments or targeted marketing to boost revenue on these underutilised routes.
