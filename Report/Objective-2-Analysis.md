@@ -52,10 +52,10 @@ From both the heatmap and the line plot, we can clearly see the peak hours for t
 
 The total number of tickets sold in our dataset is **31,653**. From our visualisation we can see that of these tickets, **16,390** are sold during peak hours. This means that just **over half** (approx 51.7%) of all journeys are made during peak hours.
 
-The busiest overall day for travel was **Wednesday** at **4692** overall ticket sales, the least busy day was **Friday** at **4351**
+The busiest overall day for travel was **Wednesday** at **4692** overall ticket sales, the least busy day was **Friday** at **4351**.
 
-From the heatmap grid, we can see that the busiest overall hour of the week is **6PM-7PM on Tuesdays** with **496 total ticket sales**
-The leeast busy overall hours of the week is **7PM-8PM on Thursdays** with **42** total ticket sales.
+From the heatmap grid, we can see that the busiest overall hour of the week is **6PM-7PM on Tuesdays** with **496 total ticket sales**.
+The leeast busy overall hours of the week is **7PM-8PM on Thursdays** with **43 total ticket sales**.
 
 We can also see that **28.39%** of all journeys were made at the weekend.
 
