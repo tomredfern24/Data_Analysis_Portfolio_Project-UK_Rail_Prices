@@ -133,7 +133,7 @@ The analysis of route popularity and revenue generation reveals several signific
 		- Liverpool Lime Street to Birmingham New Street (14 total sales).
 		- Manchester Piccadilly to Warrington and Manchester Piccadilly to York, both with 15 total sales.
 
-3. Revenue Generation:
+3. Highest Revenue Route:
    
 	- The routes generating the highest revenue are:
 		- London Kings Cross to York with £183,193.
