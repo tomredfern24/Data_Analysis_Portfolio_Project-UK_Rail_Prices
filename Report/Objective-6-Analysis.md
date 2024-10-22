@@ -145,7 +145,7 @@ The analysis of refunds and delays reveals several important findings about the 
 
 	- Total revenue lost to refunds across the network is estimated at £38,700.
  	- The total revenue generated before refunds was £741,920, meaning that after refunds, revenue would be £703,220, a loss of 5.22%.
-	- It is important to note that the dataset does not specify whether refund requests were approved or what amount was refunded, so the actual revenue loss could be lower.
+	- It is important to note that the dataset does not specify whether refund requests were approved or what amount was refunded, so the actual revenue loss may well be lower.
 
 7. Routes with the Most Refund Requests:
   
