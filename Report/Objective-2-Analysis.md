@@ -49,7 +49,7 @@ ORDER BY departure_time;
 ##
 **Insights:**
 
-From the visualisations (heatmap and line plot), several key patterns regarding passenger volume and peak times emerge:
+From the visualisations (heatmap and time series chart), several key patterns regarding passenger volume and peak times emerge:
 
 1. Peak Travel Hours:
 	- The busiest travel periods are 6AM-9AM and 4PM-7PM, reflecting typical commuter patterns. These hours consistently see the highest volume of ticket sales across the week.
