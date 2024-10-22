@@ -170,6 +170,6 @@ The analysis of refunds and delays reveals several important findings about the 
 ##
 **Conclusions:**
 
-The analysis indicates that delays and cancellations have a significant impact on passenger behaviour, with over 25% of disrupted journeys leading to refund requests. The majority of refunds stem from network-related issues rather than weather or traffic. Some routes, particularly Liverpool Lime Street to London Euston, account for a disproportionate share of delays, cancellations, and refunds.
+The analysis indicates that delays and cancellations have a significant impact on passenger behaviour, with over 25% of disrupted journeys leading to refund requests. The majority of delays stem from network-related issues rather than weather or traffic. Some routes, particularly Liverpool Lime Street to London Euston, account for a disproportionate share of delays, cancellations, and refunds.
 
 While there is no clear-cut link between the length of delays and refund requests, routes with shorter delays (16–30 minutes) tend to generate the most refund requests. Additionally, significant improvements in network infrastructure could help reduce the high percentage of network-related delays and the associated financial losses from refunds.
