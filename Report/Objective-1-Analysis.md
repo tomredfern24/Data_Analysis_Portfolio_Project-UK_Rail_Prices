@@ -103,7 +103,7 @@ I visualised this in Power BI to show which routes were, on average, consistentl
 
 2. On-time Performance:
 
-	 - Out of the 65 distinct routes analysed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
+	 - Out of the 64 distinct routes analysed (excluding reverse journeys), 18 routes (or 27.7%) consistently exceed their advertised journey times, highlighting underperformance in almost a third of the dataset's routes.
 
 3. Significant Delays:
 	
