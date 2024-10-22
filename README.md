@@ -11,7 +11,7 @@ Welcome to my Data Analysis Portfolio! This project demonstrates my proficiency 
 Key objectives of this project include:
 
    - Writing efficient SQL queries to extract, transform, and analyse data.
-   - Developing interactive Power BI dashboards to visualize critical metrics and trends.
+   - Developing interactive Power BI dashboards to visualise critical metrics and trends.
    - Writing DAX measures within Power BI to clearly demonstrate key data, and allow for interactive data visualisation.
    - Applying data-driven insights to address business challenges, such as identifying peak travel times, analysing customer segments, and evaluating route performance.
 
@@ -75,20 +75,20 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 🛠️ Technologies Used
 
     SQL: MySQL for querying and analysing data.
-    Power BI: Data visualization and dashboard creation.
+    Power BI: Data visualisation and dashboard creation.
 
 🗂️ Project Structure
 
     SQL_Queries/: SQL scripts used for each analytical objective.
     PowerBI_Dashboards/: Power BI .pbix files for interactive exploration.
-    Visualizations/: Key visualizations exported as PNG files.
+    Visualisations/: Key visualisations exported as PNG files.
     Report/: Detailed reports and findings for each objective.
 
 🚀 How to Explore the Project
 
     SQL Queries: Navigate to the SQL_Queries/ folder for the queries used in data extraction and transformation.
     Power BI Dashboards: Download .pbix files from the PowerBI_Dashboards/ folder to explore interactive dashboards in Power BI.
-    Visualizations: View summarized visual insights in the Visualizations/ folder.
+    Visualisations: View summarised visual insights in the Visualisations/ folder.
     Reports: Read detailed explanations and findings for each objective in the Report/ folder.
 
 📈 Key Insights
