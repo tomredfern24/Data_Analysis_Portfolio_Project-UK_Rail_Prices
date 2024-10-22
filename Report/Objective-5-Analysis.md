@@ -108,7 +108,7 @@ The analysis of ticket prices and journey characteristics reveals several patter
 	- The most expensive route on average is Manchester to London Paddington, priced at £114. This route stands out as the priciest in the analysis.
 
 5. High-Priced Routes:
-	- For the 15 most expensive routes, all but one are priced higher than expected. The exception is Birmingham New Street to Edinburgh, which remains priced much lower than expected despite its long journey time.
+	- For the 15 most expensive routes, all but one are priced higher than expected. The exception is Birmingham New Street to Edinburgh Waverley, which remains priced much lower than expected despite its long journey time.
 
 ##
 **Conclusions:**
