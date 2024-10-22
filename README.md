@@ -106,6 +106,7 @@ Potential areas for future analysis include:
     Dynamic Pricing Models: analysing the impact of real-time pricing adjustments on sales.
 
 Feel free to reach out if you have any questions or would like to discuss the analysis in more detail!
+
 📬 Contact Information
 
 [[LinkedIn] ](https://www.linkedin.com/in/tom-r-029088289)| [[Email]](mailto:tomredfern24@gmail.com)
