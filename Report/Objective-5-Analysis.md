@@ -92,16 +92,16 @@ The analysis of ticket prices and journey characteristics reveals several patter
 2. Outliers with Lower Prices:
 
 	- Despite longer journey durations, four notable routes are priced much lower than expected:
-		- Birmingham New Street to Edinburgh: Priced on average £39.06 lower than expected.
+		- Birmingham New Street to Edinburgh Waverley: Priced on average £39.06 lower than expected.
 		- Edinburgh Waverley to London Kings Cross: Priced on average £44.60 lower than expected.
 		- London Kings Cross to Edinburgh Waverley: Priced on average £48.32 lower than expected.
-		- York to Edinburgh: Priced on average £22.48 lower than expected.
+		- York to Edinburgh Waverley: Priced on average £22.48 lower than expected.
 
 3. Route Price Classification:
 
-	- 49% of all routes (32 out of 65) are priced lower than expected, indicating that nearly half of the routes offer ticket prices below the estimated average price for their respective journey durations.
- 	- Only 20% of routes (13 out of 65) fall within the expected price range, meaning that around 80% of routes deviate significantly from their expected price—either higher or lower.
-  	- Of the 65 routes analysed, the majority either offer more affordable tickets or charge higher-than-expected prices, with fewer routes aligning with the predicted cost.
+	- 49% of all routes (31 out of 64) are priced lower than expected, indicating that nearly half of the routes offer ticket prices below the estimated average price for their respective journey durations.
+ 	- Only 20% of routes (13 out of 64) fall within the expected price range, meaning that around 80% of routes deviate significantly from their expected price—either higher or lower.
+  	- Of the 64 routes analysed, the majority either offer more affordable tickets or charge higher-than-expected prices, with fewer routes aligning with the predicted cost.
 
 4. Most Expensive Route:
 
