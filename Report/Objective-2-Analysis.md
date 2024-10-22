@@ -45,6 +45,7 @@ ORDER BY departure_time;
 **Power BI Visualisation:**
 
 ![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/2.%20Peak%20Time%20Analysis%20Dashboard.png)
+![alt text](https://github.com/tomredfern24/UK-Rail-Ticket-Sales-Analysis-SQL-PowerBI/blob/main/Visualisations/2b.%20SPC%20Time%20Series%20Chart.png)
 ##
 **Insights:**
 
