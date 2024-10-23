@@ -78,7 +78,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 
-📈 Key Insights
+📈 High level Insights
 
    - [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md): Around 28% of routes experience delays, with notable issues on routes like Manchester Piccadilly to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
 
