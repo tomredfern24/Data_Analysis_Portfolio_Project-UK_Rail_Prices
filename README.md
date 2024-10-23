@@ -80,7 +80,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 📈 Key Insights
 
-   - [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md): Around 28% of routes experience delays, with notable issues on long-distance routes like Manchester to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
+   - [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md): Around 28% of routes experience delays, with notable issues on routes like Manchester Piccadilly to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
 
    - [Peak Time Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/2.%20Peak%20Time%20Analysis.md): Peak commuting hours (6AM-9AM, 4PM-7PM) dominate travel, especially on weekdays like Wednesday, while Friday is the least busy. Rail operators could optimise staffing and resources during peak times and quieter periods for better efficiency.
 
