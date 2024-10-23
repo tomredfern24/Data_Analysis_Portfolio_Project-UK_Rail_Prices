@@ -19,7 +19,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 🎯 Objectives
-[1. Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md)
+1. [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md)
 
    Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
    
