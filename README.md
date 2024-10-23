@@ -19,62 +19,62 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 🎯 Objectives
-1. Journey Duration Analysis
+1. [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md)
 
-Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+   Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
+   
+   Key Questions:
+           
+      - Which routes have the longest and shortest average journey times?
+      - Are there routes where travel times consistently exceed advertised durations?
 
-Key Questions:
-        
-   - Which routes have the longest and shortest average journey times?
-   - Are there routes where travel times consistently exceed advertised durations?
+2. [Peak Time Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/2.%20Peak%20Time%20Analysis.md)
 
-2. Peak Travel Time Analysis
-
-Objective: Analyse hourly and daily travel patterns to identify peak and off-peak periods.
-
-Key Questions:
-
-   - What are the busiest travel times and days of the week by passenger volume?
-   - What proportion of journeys occur on weekdays vs. weekends?
+   Objective: Analyse hourly and daily travel patterns to identify peak and off-peak periods.
+   
+   Key Questions:
+   
+      - What are the busiest travel times and days of the week by passenger volume?
+      - What proportion of journeys occur on weekdays vs. weekends?
 
 3. Route Popularity and Revenue Analysis
-
-Objective: Evaluate passenger volume and revenue generation across different routes.
-
-Key Questions:
-        
-   - Which routes are the most and least popular?
-   - Which routes generate the highest and lowest revenue?
-   - Which routes have the highest average ticket prices and most first-class ticket sales?
+   
+   Objective: Evaluate passenger volume and revenue generation across different routes.
+   
+   Key Questions:
+           
+      - Which routes are the most and least popular?
+      - Which routes generate the highest and lowest revenue?
+      - Which routes have the highest average ticket prices and most first-class ticket sales?
 
 4. Customer Segment Analysis
 
-Objective: Explore the relationship between ticket type, railcard usage, and revenue contribution.
-
-Key Questions:
-        
-   - Do railcards account for higher revenue?
-   - Which ticket types contribute the most to total revenue?
-   - How does the average ticket price differ by ticket type?
-   - What is the comparison between railcard and non-railcard revenue?
+   Objective: Explore the relationship between ticket type, railcard usage, and revenue contribution.
+   
+   Key Questions:
+           
+      - Do railcards account for higher revenue?
+      - Which ticket types contribute the most to total revenue?
+      - How does the average ticket price differ by ticket type?
+      - What is the comparison between railcard and non-railcard revenue?
 
 5. Ticket Price and Journey Characteristic Analysis
 
-Objective: Understand the relationship between journey length, speed, and ticket pricing.
-
-Key Questions:
-        
-   - Do faster routes have higher ticket prices?
-   - Are there routes with unusually high or low prices compared to the average?
+   Objective: Understand the relationship between journey length, speed, and ticket pricing.
+   
+   Key Questions:
+           
+      - Do faster routes have higher ticket prices?
+      - Are there routes with unusually high or low prices compared to the average?
 
 6. Refunds and Delays Analysis
 
-Objective: Investigate the impact of delays and cancellations on refund requests.
-
-Key Questions:
+   Objective: Investigate the impact of delays and cancellations on refund requests.
    
-   - Is there a correlation between delay length and refund requests?
-   - Which routes experience the most delays or cancellations, and what are the common causes?
+   Key Questions:
+      
+      - Is there a correlation between delay length and refund requests?
+      - Which routes experience the most delays or cancellations, and what are the common causes?
 
 ##
 
