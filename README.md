@@ -74,7 +74,17 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 📈 Key Insights
 
-    
+      Journey Duration Analysis: Nearly 28% of routes experience delays, with notable issues on long-distance routes like Manchester to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
+
+      Peak Time Analysis: Peak commuting hours (6AM-9AM, 4PM-7PM) dominate travel, especially on weekdays like Wednesday, while Friday is the least busy. Rail operators could optimise staffing and resources during peak times and quieter periods for better efficiency.
+
+      Route Popularity and Revenue Analysis: High-revenue routes like London to York drive profitability, while popular but low-revenue routes like Manchester to Liverpool require pricing adjustments. First-class tickets, though fewer in sales, contribute significantly to revenue.
+
+      Customer Segment Analysis: Advance Tickets drive the majority of revenue, despite lower prices than Anytime Tickets. Non-railcard passengers dominate revenue, suggesting opportunities to target them with promotions or encourage railcard adoption.
+
+      Ticket Price and Journey Characteristics: Longer routes generally have higher ticket prices, but many routes are under or overpriced. Pricing strategies could be refined, especially for long-distance routes where prices deviate from expectations.
+
+      Refunds and Delays Analysis: Over 25% of delayed or cancelled journeys lead to refund requests, with network issues being the primary cause. Shorter delays (16–30 minutes) result in the most refunds, and improving network infrastructure could reduce delays and related refunds.
 
 
 🛠️ Technologies Used
