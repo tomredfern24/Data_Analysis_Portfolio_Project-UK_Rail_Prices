@@ -72,6 +72,11 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 
+📈 Key Insights
+
+    
+
+
 🛠️ Technologies Used
 
     SQL: MySQL for querying and analysing data.
@@ -90,12 +95,6 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
     Power BI Dashboards: Download .pbix files from the PowerBI_Dashboards/ folder to explore interactive dashboards in Power BI.
     Visualisations: View summarised visual insights in the Visualisations/ folder.
     Reports: Read detailed explanations and findings for each objective in the Report/ folder.
-
-📈 Key Insights
-
-    Peak Travel: Busiest travel times and days significantly influence revenue generation.
-    Revenue Drivers: Certain routes and ticket types contribute disproportionately to overall revenue.
-    Customer Segments: Railcard holders show distinct behavior patterns, influencing ticket pricing strategies.
 
 💡 Future Work
 
