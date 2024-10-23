@@ -37,7 +37,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
       - What are the busiest travel times and days of the week by passenger volume?
       - What proportion of journeys occur on weekdays vs. weekends?
 
-3. Route Popularity and Revenue Analysis
+3. [Route Popularity and Revenue Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/3.%20Route%20Popularity%20and%20Revenue%20Analysis.md)
    
    Objective: Evaluate passenger volume and revenue generation across different routes.
    
@@ -47,7 +47,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
       - Which routes generate the highest and lowest revenue?
       - Which routes have the highest average ticket prices and most first-class ticket sales?
 
-4. Customer Segment Analysis
+4. [Customer Segment Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/4.%20Customer%20Segment%20Analysis.md)
 
    Objective: Explore the relationship between ticket type, railcard usage, and revenue contribution.
    
@@ -58,7 +58,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
       - How does the average ticket price differ by ticket type?
       - What is the comparison between railcard and non-railcard revenue?
 
-5. Ticket Price and Journey Characteristic Analysis
+5. [Ticket Price and Journey Characteristics](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/5.%20Ticket%20Price%20and%20Journey%20Characteristics%20Analysis.md)
 
    Objective: Understand the relationship between journey length, speed, and ticket pricing.
    
@@ -67,7 +67,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
       - Do faster routes have higher ticket prices?
       - Are there routes with unusually high or low prices compared to the average?
 
-6. Refunds and Delays Analysis
+6. [Refunds and Delays Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/6.%20Refunds%20and%20Delays%20Analysis.md)
 
    Objective: Investigate the impact of delays and cancellations on refund requests.
    
