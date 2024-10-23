@@ -89,8 +89,8 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 🛠️ Technologies Used
 
-    SQL: MySQL for querying and analysing data.
-    Power BI: Data visualisation and dashboard creation.
+    SQL: MySQL for querying and transforming data.
+    Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
 
 🗂️ Project Structure
 
