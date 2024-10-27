@@ -93,11 +93,15 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
    - [Refunds and Delays Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/6.%20Refunds%20and%20Delays%20Analysis.md): Over 25% of delayed or cancelled journeys lead to refund requests, with network issues being the primary cause. Shorter delays (16–30 minutes) result in the most refunds, and improving network infrastructure could reduce delays and related refunds.
 
 
+##
+
 🛠️ Technologies Used
 
    - SQL: MySQL for querying and transforming data.
    - Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
 
+
+##
 
 🚀 How to Explore the Project
 
@@ -105,6 +109,11 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
     Power BI Dashboards: Download .pbix files from the PowerBI_Dashboards/ folder to explore interactive dashboards in Power BI.
     Visualisations: View summarised visual insights in the Visualisations/ folder.
     Reports: Read detailed explanations and findings for each objective in the Report/ folder.
+
+
+
+##
+
 
 💡 Future Work
 
@@ -114,6 +123,8 @@ Potential areas for future analysis include:
    - Sentiment Analysis: Incorporating customer feedback to improve service quality and route efficiency.
    - Dynamic Pricing Models: analysing the impact of real-time pricing adjustments on sales.
 
+
+##
 
 
 📬 Contact Information
