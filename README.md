@@ -98,12 +98,6 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
    - SQL: MySQL for querying and transforming data.
    - Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
 
-🗂️ Project Structure
-
-   - SQL_Queries/: SQL scripts used for each analytical objective.
-   - PowerBI_Dashboards/: Power BI .pbix files for interactive exploration.
-   - Visualisations/: Key visualisations exported as PNG files.
-   - Report/: Detailed reports and findings for each objective.
 
 🚀 How to Explore the Project
 
@@ -116,9 +110,9 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 Potential areas for future analysis include:
 
-    Predictive Modeling: Forecasting future passenger volume and revenue based on historical trends.
-    Sentiment Analysis: Incorporating customer feedback to improve service quality and route efficiency.
-    Dynamic Pricing Models: analysing the impact of real-time pricing adjustments on sales.
+   - Predictive Modeling: Forecasting future passenger volume and revenue based on historical trends.
+   - Sentiment Analysis: Incorporating customer feedback to improve service quality and route efficiency.
+   - Dynamic Pricing Models: analysing the impact of real-time pricing adjustments on sales.
 
 Feel free to reach out if you have any questions or would like to discuss the analysis in more detail!
 
