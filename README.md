@@ -95,15 +95,15 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 🛠️ Technologies Used
 
-    SQL: MySQL for querying and transforming data.
-    Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
+   - SQL: MySQL for querying and transforming data.
+   - Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
 
 🗂️ Project Structure
 
-    SQL_Queries/: SQL scripts used for each analytical objective.
-    PowerBI_Dashboards/: Power BI .pbix files for interactive exploration.
-    Visualisations/: Key visualisations exported as PNG files.
-    Report/: Detailed reports and findings for each objective.
+   - SQL_Queries/: SQL scripts used for each analytical objective.
+   - PowerBI_Dashboards/: Power BI .pbix files for interactive exploration.
+   - Visualisations/: Key visualisations exported as PNG files.
+   - Report/: Detailed reports and findings for each objective.
 
 🚀 How to Explore the Project
 
