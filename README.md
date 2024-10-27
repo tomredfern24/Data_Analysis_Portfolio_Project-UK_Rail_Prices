@@ -80,17 +80,17 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 📈 High Level Insights
 
-   - [Journey Duration Analysis]: Around 28% of routes experience delays, with notable issues on routes like Manchester Piccadilly to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
+   - Journey Duration Analysis: Around 28% of routes experience delays, with notable issues on routes like Manchester Piccadilly to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
 
-   - [Peak Time Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/2.%20Peak%20Time%20Analysis.md): Peak commuting hours (6AM-9AM, 4PM-7PM) dominate travel, especially on weekdays like Wednesday, while Friday is the least busy. Rail operators could optimise staffing and resources during peak times and quieter periods for better efficiency.
+   - Peak Time Analysis: Peak commuting hours (6AM-9AM, 4PM-7PM) dominate travel, especially on weekdays like Wednesday, while Friday is the least busy. Rail operators could optimise staffing and resources during peak times and quieter periods for better efficiency.
 
-   - [Route Popularity and Revenue Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/3.%20Route%20Popularity%20and%20Revenue%20Analysis.md): High-revenue routes like London to York drive profitability, while popular but low-revenue routes like Manchester to Liverpool require pricing adjustments. First-class tickets, though fewer in sales, contribute significantly to revenue.
+   - Route Popularity and Revenue Analysis: High-revenue routes like London to York drive profitability, while popular but low-revenue routes like Manchester to Liverpool require pricing adjustments. First-class tickets, though fewer in sales, contribute significantly to revenue.
 
-   - [Customer Segment Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/4.%20Customer%20Segment%20Analysis.md): Advance Tickets drive the majority of revenue, despite lower prices than Anytime Tickets. Non-railcard passengers dominate revenue, suggesting opportunities to target them with promotions or encourage railcard adoption.
+   - Customer Segment Analysis: Advance Tickets drive the majority of revenue, despite lower prices than Anytime Tickets. Non-railcard passengers dominate revenue, suggesting opportunities to target them with promotions or encourage railcard adoption.
 
-   - [Ticket Price and Journey Characteristics](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/5.%20Ticket%20Price%20and%20Journey%20Characteristics%20Analysis.md): Longer routes generally have higher ticket prices, but many routes are under or overpriced. Pricing strategies could be refined, especially for long-distance routes where prices deviate from expectations.
+   - Ticket Price and Journey Characteristics: Longer routes generally have higher ticket prices, but many routes are under or overpriced. Pricing strategies could be refined, especially for long-distance routes where prices deviate from expectations.
 
-   - [Refunds and Delays Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/6.%20Refunds%20and%20Delays%20Analysis.md): Over 25% of delayed or cancelled journeys lead to refund requests, with network issues being the primary cause. Shorter delays (16–30 minutes) result in the most refunds, and improving network infrastructure could reduce delays and related refunds.
+   - Refunds and Delays Analysis: Over 25% of delayed or cancelled journeys lead to refund requests, with network issues being the primary cause. Shorter delays (16–30 minutes) result in the most refunds, and improving network infrastructure could reduce delays and related refunds.
 
 
 ##
