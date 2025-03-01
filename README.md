@@ -4,7 +4,7 @@ This repository highlights my data analysis skills through a series of analytica
 
 ##
 
-📘 Introduction
+Introduction
 
 Welcome to my Data Analysis Portfolio! This project demonstrates my proficiency in data querying, transformation, and visualization using MySQL for database analysis and Power BI for data-driven insights. The mock dataset of UK rail ticket sales provides a real-world scenario where I analyse sales trends, customer behavior, and revenue generation.
 
@@ -18,7 +18,7 @@ Key objectives of this project include:
 Explore the SQL queries, Power BI dashboards, and reports to understand my approach to solving business questions and storytelling through data.
 
 ##
-🎯 Objectives
+Objectives
 1. [Journey Duration Analysis](https://github.com/tomredfern24/Data_Analysis_Portfolio_Project-UK_Rail_Prices/blob/main/Report/1.%20Journey%20Duration%20Analysis.md)
 
    Objective: Identify routes with the longest and shortest average journey times and assess their consistency with advertised times.
@@ -78,7 +78,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 
-📈 High Level Insights
+High Level Insights
 
    - Journey Duration Analysis: Around 28% of routes experience delays, with notable issues on routes like Manchester Piccadilly to Leeds. Operational inefficiencies or external factors could be causing these delays. Further analysis is needed to address potential causes, improving punctuality.
 
@@ -95,7 +95,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 
-🛠️ Technologies Used
+Technologies Used
 
    - SQL: MySQL for querying and transforming data.
    - Power BI: Data visualisation, dashboard creation and further calculations using DAX measures.
@@ -103,7 +103,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 
 ##
 
-🚀 How to Explore the Project
+How to Explore the Project
 
     SQL Queries: Navigate to the SQL_Queries/ folder for the queries used in data extraction and transformation.
     Power BI Dashboards: Download .pbix files from the PowerBI_Dashboards/ folder to explore interactive dashboards in Power BI.
@@ -115,7 +115,7 @@ Explore the SQL queries, Power BI dashboards, and reports to understand my appro
 ##
 
 
-💡 Future Work
+Future Work
 
 Potential areas for future analysis include:
 
@@ -127,7 +127,7 @@ Potential areas for future analysis include:
 ##
 
 
-📬 Contact Information
+Contact Information
 
 Feel free to reach out if you have any questions or would like to discuss the analysis in more detail!
 
@@ -135,6 +135,6 @@ Feel free to reach out if you have any questions or would like to discuss the an
 
 ##
 
-📝 License
+License
 
 This project is licensed under the MIT License.
